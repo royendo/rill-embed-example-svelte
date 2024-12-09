@@ -1,0 +1,33 @@
+{
+	"/": [],
+	"/api/custom-attribute-iframe": [
+		"src/routes/api/custom-attribute-iframe/+server.js"
+	],
+	"/api/navigation-iframe": [
+		"src/routes/api/navigation-iframe/+server.js"
+	],
+	"/api/no-data-iframe": [
+		"src/routes/api/no-data-iframe/+server.js"
+	],
+	"/api/no-pivot-iframe": [
+		"src/routes/api/no-pivot-iframe/+server.js"
+	],
+	"/api/row-access-policy-iframe": [
+		"src/routes/api/row-access-policy-iframe/+server.js"
+	],
+	"/api/simple-iframe": [
+		"src/routes/api/simple-iframe/+server.js"
+	],
+	"/api/view-iframe": [
+		"src/routes/api/view-iframe/+server.js"
+	],
+	"/custom-attributes-embed": [],
+	"/disabled-pivot-view": [],
+	"/error-loading-data": [],
+	"/filtered-view": [],
+	"/navigation-iframe": [],
+	"/pivot-view": [],
+	"/row-access-policy-embed": [],
+	"/simple-iframe": [],
+	"/tdd-iframe": []
+}
